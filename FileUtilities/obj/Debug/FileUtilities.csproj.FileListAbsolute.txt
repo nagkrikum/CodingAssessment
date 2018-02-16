@@ -1,0 +1,6 @@
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\bin\Debug\FileUtilities.dll
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\bin\Debug\FileUtilities.pdb
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\obj\Debug\FileUtilities.csprojResolveAssemblyReference.cache
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\obj\Debug\FileUtilities.csproj.CoreCompileInputs.cache
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\obj\Debug\FileUtilities.dll
+C:\Users\revanth\Documents\CodingAssessment\FileUtilities\obj\Debug\FileUtilities.pdb
